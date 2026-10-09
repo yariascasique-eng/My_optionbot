@@ -1,0 +1,3 @@
+python-telegram-bot==20.7
+groq==0.4.2
+supabase==2.3.0
