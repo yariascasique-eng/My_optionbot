@@ -89,4 +89,3 @@ if __name__ == "__main__":
     app.add_handler(MessageHandler(filters.TEXT & (~filters.COMMAND), handle_message))
 
     # Iniciar el bot en modo Polling
-    app.run_polling()
